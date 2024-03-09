@@ -10,4 +10,7 @@ public class Controller {
         return "Hello World!";
     }
 
+  public String hello_world(){
+    return "hello handsome";
+  }
 }
